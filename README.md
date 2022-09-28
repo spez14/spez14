@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
 # Olá, meu nome é Vitor! Seja bem vindo(a) ao meu perfil GitHub!
-# Hello! My name is Vitor! Welcome to my Github profile! 
+# Hello! My name is Vitor! Welcome to my Github profile!
 
 <!--
 **spez14/spez14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
