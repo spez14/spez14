@@ -7,6 +7,10 @@
 - 📌 Estou cursando Análise e Desenvolvimento de Sistemas na UMC (Universidade de Mogi das Cruzes).
 - 📌 Tenho conhecimentos, ainda que por agora mais básicos, nas tecnologias HTML, CSS, JS, Java, PHP e Python.
 
+## Tecnologias nas quais tenho conhecimento
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
 <!--
 **spez14/spez14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
