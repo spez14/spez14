@@ -5,6 +5,7 @@
 
 - 📌 Atualmente sou desenvolvedor autônomo porém desejo começar a trabalhar em uma empresa da área de tecnologia.
 - 📌 Estou cursando Análise e Desenvolvimento de Sistemas na UMC (Universidade de Mogi das Cruzes).
+- 📌 Tenho conhecimentos, ainda que por agora mais básicos, nas tecnologias HTML, CSS, JS, Java, PHP e Python.
 
 <!--
 **spez14/spez14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
