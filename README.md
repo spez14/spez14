@@ -1,6 +1,6 @@
-### Hello there 👋
+# Hello there 👋
 
-# Meu nome é Vitor! Seja bem vindo(a) ao meu perfil GitHub!
+## Meu nome é Vitor! Seja bem vindo(a) ao meu perfil GitHub!
 ## My name is Vitor! Welcome to my Github profile!
 
 - 📌 Atualmente sou desenvolvedor autônomo porém desejo começar a trabalhar em uma empresa da área de tecnologia.
